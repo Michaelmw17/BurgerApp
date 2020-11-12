@@ -1,5 +1,4 @@
-/* global
----------------------------------------- */
+
 *, *:before, *:after {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -14,9 +13,6 @@ body {
   height: 100vh;
   font-family: 'Fira Sans', sans-serif;
 }
-
-/* title
----------------------------------------- */
 .my-container{
   margin: 10px auto;
 }
@@ -44,40 +40,38 @@ h3 {
   font-size: 20px;
 }
 #burger-name:placeholder {
-  color: rgb(190, 190, 190);
+  color: rgba(190, 190, 190, 0.986);
 }
 #burger-name:focus::placeholder {
   color: transparent;
 }
 .add-btn {
-  background: black;
-  color: white;
+  background: rgb(3, 3, 3);
+  color: rgb(255, 255, 255);
   border: none;
 }
 
 @media screen and (min-width: 768px) {
   h1 {
-    font-size: 60px;
+    font-size: 50px;
   }
   .icon-burger {
-    width: 40px;
+    width: 30px;
   }
 }
 
-/* burger list
----------------------------------------- */
 h4 {
-  background: rgba(251, 251, 196, 0.8);
+  background: rgba(243, 233, 146, 0.8);
   margin: 0;
   padding: 10px;
-  font-size: 19px;
+  font-size: 18px;
 }
 
 .wait-container, .devoured-container {
   padding: 0;
 }
 .wait-container ul, .devoured-container ul {
-  background: rgba(255, 255, 255, 0.7);
+  background: rgba(253, 252, 252, 0.7);
   padding: 0 0 10px 0;
   min-height: 40px;
 }
@@ -93,12 +87,10 @@ li {
   padding: 0px 7px;
 }
 .devoured-btn:hover {
-  border: 1px solid rgba(241, 241, 42, 1);
+ 
   background: rgba(241, 241, 42, 1);
-  color: black;
+  
 }
 .delete-btn:hover {
-  border: 1px solid rgba(255, 124, 41, 1);
-  background: rgba(255, 124, 41, 1);
-  color: black;
+  background: rgb(255, 41, 41);
 }
