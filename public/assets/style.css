@@ -20,14 +20,12 @@ h1 {
 
   font-weight: 700;
   color:rgba(0, 0, 0, 0.9);
-  text-shadow: 3px 3px rgb(231, 180, 40);
   text-align: center;
   font-size: 45px;
   line-height: 0.8em;
 }
 .eat-da {
-  font-size: 35px;
-  text-shadow: 2px 2px rgba(255, 255, 65, 0);
+  font-size: 35px; 
 }
 
 .icon-burger {
@@ -88,7 +86,7 @@ li {
 }
 .devoured-btn:hover {
  
-  background: rgba(241, 241, 42, 1);
+  background: rgb(247, 247, 124);
   
 }
 .delete-btn:hover {
