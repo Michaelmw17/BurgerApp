@@ -59,7 +59,7 @@ This project uses the License: Unlicense
 
 ## Screenshots
 
-![Screenshot1](./public/assets/images/Screen-Shot-2020.png)
+![Screenshot](./public/assets/images/Screen-Shot-2020.png)
 
 ## Questions
 
