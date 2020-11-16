@@ -65,7 +65,7 @@ h3 {
   }
 }
 .delete-btn {
-  color: rgb(255, 41, 41);
+  /* color: rgb(155, 2, 2); */
   background-color: rgb(3, 3, 3);
   border-radius: 20px;
 }
@@ -84,6 +84,7 @@ h4 {
 
 .wait-container, .devoured-container {
   padding: 5px;
+  font-size: 18px;
 }
 .wait-container ul, .devoured-container ul {
   background: rgba(253, 252, 252, 0.7);
