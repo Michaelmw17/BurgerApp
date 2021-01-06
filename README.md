@@ -54,10 +54,6 @@ A demo of the application: https://hidden-fortress-02395.herokuapp.com/
 7. Require the following npm packages inside of the server.js file:
    - express
 
-## License
-
-This project uses the License: Unlicense
-
 ## Screenshots
 
 ![Screenshot](./public/assets/images/Screen-Shot-2020.png)
