@@ -1,6 +1,7 @@
 # Node Express Handlebars - BurgerApp
+### Licence
 
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)<br />
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 Within this assignment we create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. Following the MVC design pattern by using Node and MySQL to query and route data to the app, and Handlebars to generate a HTML.
 
