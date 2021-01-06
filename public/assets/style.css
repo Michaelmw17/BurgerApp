@@ -64,8 +64,9 @@ h3 {
     width: 80px;
   }
 }
+
 .delete-btn {
-  /* color: rgb(155, 2, 2); */
+  color: rgb(155, 2, 2);
   background-color: rgb(3, 3, 3);
   border-radius: 20px;
 }
@@ -99,13 +100,13 @@ li {
 }
 
 .devoured-btn, .delete-btn {
-  border: 1px solid black;
+  border: 1px solid rgb(0, 0, 0);
   margin: 2px;
   background: none;
   padding-right: 7px;
 }
 .devoured-btn:hover {
- 
+  color:rgb(8, 8, 8);
   background: rgb(247, 247, 124);
   
 }
